@@ -1,0 +1,16 @@
+{
+  "name": "learning-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fran Zekan <zekan.fran369@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.2"
+  }
+}
